@@ -14,7 +14,7 @@ entries:
       tanzuCategory: clusterUtility
     apiVersion: v2
     appVersion: 1.28.0
-    created: "2025-05-21T10:57:18.846644476Z"
+    created: "2025-05-21T10:59:34.676563259Z"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -24,7 +24,7 @@ entries:
     description: NGINX Open Source is a web server that can be also used as a reverse
       proxy, load balancer, and HTTP cache. Recommended for high-demanding sites due
       to its ability to provide faster content.
-    digest: 24bdd51b4211633b304303d8db89839ae249cc1ec0d6e371464763a275502175
+    digest: 7b2639080a3a51c6029470092ae5daf8422beb994fc37e2bda33429d24491170
     home: https://bitnami.com
     icon: https://dyltqmyl993wv.cloudfront.net/assets/stacks/nginx/img/nginx-stack-220x234.png
     keywords:
@@ -42,4 +42,4 @@ entries:
     urls:
     - https://hashini-sugandika.github.io/sample_helm/nginx-20.0.2.tgz
     version: 20.0.2
-generated: "2025-05-21T10:57:18.841877518Z"
+generated: "2025-05-21T10:59:34.673321604Z"
